@@ -1,0 +1,8 @@
+Estruturas aninhadas
+
+if...elif....else
+
+if []:
+elif []:
+elif []:
+else:
